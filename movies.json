@@ -1,0 +1,286 @@
+
+[
+          {
+                    "Poster" : "images/maleficent.jpg",
+                    "titre" : "Maleficent",
+                    "réalisateur" : "Robert Stromberg",
+                    "durée" : "95 minutes",
+                    "année" : "2014",
+                    "Festivals" : [
+                              "Public Health Film Festival"
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Jolie",
+                                        "prenom" : " Angelina",
+                                        "nationalité" : "(Américaine)"
+                              },
+                              {
+                                        "nom" : "Fanning",
+                                        "prenom" : " Mary Elle",
+                                        "nationalité" : "(Américaine)"
+                              },
+                              {
+                                        "nom" : "Riley",
+                                        "prenom" : " Sam",
+                                        "nationalité" : " (Britannique)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                   "Poster" : "images/jumanji.jpg",
+                    "titre" : "Jumanji",
+                    "réalisateur" : "Jake Kasdan",
+                    "durée" : "119 minutes",
+                    "année" : "2017",
+                    "Festivals" : [
+                              " Gala de cloture du festival international du film"
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Johnson",
+                                        "prenom" : " Dwayne",
+                                        "nationalité" : " (Américain)"
+                              },
+                              {
+                                        "nom" : "Black",
+                                        "prenom" : " Jack",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Gillan",
+                                        "prenom" : " Karen",
+                                        "nationalité" : " (Britannique)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                   "Poster" : "images/TombRaider.jpg",
+                    "titre" : "Lara Croft: Tomb Raider",
+                    "réalisateur" : "Simon West",
+                    "durée" : "100 minutes",
+                    "année" : "2001",
+                    "Festivals" : [
+                              "Public Health Film Festival"
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Jolie",
+                                        "prenom" : " Angelina",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Voight",
+                                        "prenom" : " Jon",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Glen",
+                                        "prenom" : " Iain ",
+                                        "nationalité" : " (Britannique)"
+                              }
+                    ]
+      
+      
+          },
+          {        
+                     "Poster" : "images/spiderman.jpg",
+                    "titre" : "Spider-Man",
+                    "réalisateur" : "Sam Raimi",
+                    "durée" : "121 minutes",
+                    "année" : "2002",
+                    "Festivals" : [
+                              " Annecy International Animation Film Festival"      
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Maguire",
+                                        "prenom" : " Tobey",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Dafoe",
+                                        "prenom" : " Willem",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Dunst",
+                                        "prenom" : " Kirsten",
+                                        "nationalité" : " (Allemande)"
+                              }
+                    ]
+      
+      
+          },
+          {         
+                    "Poster" : "images/venom.jpg",
+                    "titre" : "Venom",
+                    "réalisateur" : "Ruben Fleischer",
+                    "durée" : "112 minutes",
+                    "année" : "2018",
+                    "Festivals" : [
+                              "Public Health Film Festival"    
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Hardy",
+                                        "prenom" : " Tom",
+                                        "nationalité" : " (Britannique)"
+                              },
+                              {
+                                        "nom" : "Williams",
+                                        "prenom" : " Michelle",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Rizwan",
+                                        "prenom" : " Ahmed",
+                                        "nationalité" : " (Britannique)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                   "Poster" : "images/enchanted.jpg",
+                    "titre" : "Enchanted",
+                    "réalisateur" : "Bill Kelly",
+                    "durée" : "107 minutes",
+                    "année" : " 2007",
+                    
+                    "Festivals" : [
+                              " Annecy International Animation Film Festival"
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Adams",
+                                        "prenom" : " Amy",
+                                        "nationalité" : " (American)"
+                              },
+                              {
+                                        "nom" : "Dempsey",
+                                        "prenom" : " Patrick",
+                                        "nationalité" : " (American)"
+                              }
+                             
+                    ]
+      
+      
+          },
+          {           
+                   "Poster" : "images/aquietplace.jpg",
+                    "titre" : "A Quiet Place",
+                    "réalisateur" : "John Krasinski",
+                    "durée" : "90 minutes",
+                    "année" : "2018",
+                    "Festivals" : [
+                              "Public Health Film Festival"    
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Blunt",
+                                        "prenom" : " Emily",
+                                        "nationalité" : " (Britannique)"
+                              },
+                              {
+                                        "nom" : "Krasinski",
+                                        "prenom" : " John",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Jupe",
+                                        "prenom" : " Noah",
+                                        "nationalité" : " (Britannique)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                   "Poster" : "images/swimmers.jpg",
+                    "titre" : "The Swimmers",
+                    "réalisateur" : "Iain Kitching",
+                    "durée" : "134 minutes",
+                    "année" : " 2022",
+                    
+                    "Festivals" : [
+                              " Gala de cloture du festival international du film"
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : " Mardini",
+                                        "prenom" : " Yusra",
+                                        "nationalité" : " (syriens)"
+                              },
+                              {
+                                        "nom" : "Mardini",
+                                        "prenom" : " Sarah",
+                                        "nationalité" : " (syriens)"
+                              },
+                              {
+                                        "nom" : "Malek",
+                                        "prenom" : " Ahmed ",
+                                        "nationalité" : " (Egyptian)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                  "Poster" : "images/fall.jpg",
+                    "titre" : "Fall",
+                    "réalisateur" : "Scott Mann",
+                    "durée" : "117 minutes",
+                    "année" : "2022",
+                    "Festivals" : [
+                              "International Film Festival"        
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Gardner",
+                                        "prenom" : " Virginia",
+                                        "nationalité" : " (Américaine)"
+                              },
+                              {
+                                        "nom" : "Gooding",
+                                        "prenom" : " Mason",
+                                        "nationalité" : " (Américain)"
+                              },
+                              {
+                                        "nom" : "Morgan",
+                                        "prenom" : " Jeffrey Dean",
+                                        "nationalité" : " (Américaine)"
+                              }
+                    ]
+      
+      
+          },
+          {
+                    "Poster" : "images/soul.jpg",
+                    "titre" : "soul",
+                    "réalisateur" : "Pete Docter",
+                    "durée" : "101 minutes",
+                    "année" : "2020",  
+                    "Festivals" : [
+                              " Annecy International Animation Film Festival"     
+                    ],
+                    "Acteurs" : [
+                              {
+                                        "nom" : "Cooley",
+                                        "prenom" : " Josh",
+                                        "nationalité" : " (Américain)"
+                              },
+                              {
+                                        "nom" : "Fey",
+                                        "prenom" : " Tina",
+                                        "nationalité" : " (Américaine)"
+                              }
+                    ]
+      
+      
+          }
+      ]
