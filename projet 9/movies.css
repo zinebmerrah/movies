@@ -1,0 +1,24 @@
+    body{
+          font-family: Javanese Text;
+          font-family: Inter;
+          background-color: #283760;
+      }
+          .form-select{
+          width: 30%;
+          margin: 1%;
+          background-color: #B4880A;
+      }
+      .form-control{
+          width: 30%;
+          margin: 1%;
+      }
+      thead{
+          background-color: #FFFFFF;
+          opacity: 0.75;
+          color: #B4880A;
+      }
+      tbody{
+          background-color: #F5F5F5;
+      }
+
+      
